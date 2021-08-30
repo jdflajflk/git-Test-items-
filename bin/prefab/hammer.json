@@ -1,0 +1,1 @@
+{"type":"Image","props":{"y":50,"x":45,"skin":"res/hammer.png","rotation":0,"presetID":1,"name":"hammer","isPresetRoot":true,"anchorY":0.5,"anchorX":0.5},"compId":32,"child":[{"type":"Script","props":{"presetID":2,"runtime":"game/hammer.ts"},"compId":30}],"loadList":["res/hammer.png"],"loadList3D":[]}
